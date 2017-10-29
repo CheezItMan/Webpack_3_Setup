@@ -8,6 +8,8 @@ Desktop.ini
 ._*
 Thumbs.db
 
+old
+
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
@@ -22,3 +24,5 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+package-lock.json
+
